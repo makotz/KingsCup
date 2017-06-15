@@ -1,0 +1,2 @@
+class KingsCup < ApplicationRecord
+end
